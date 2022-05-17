@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Papir](https://usepapir.com)
 
-- 🌱 I’m currently learning **React Native**
+<!-- - 🌱 I’m currently learning **React Native** -->
 
 - 👨‍💻 All of my projects are available at [https://ondo.dev/projects](https://ondo.dev/projects)
 
